@@ -52,9 +52,6 @@ Open a Pull Request.
 ![Screenshot 2024-06-07 190550](https://github.com/rahul9903/Twitter/assets/130080777/61d6c649-0841-46d0-82c3-5edf95429a9f)
 ![Screenshot 2024-06-07 190538](https://github.com/rahul9903/Twitter/assets/130080777/486d2714-4b66-4f0d-8aec-3c1881269218)
 
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## **Acknowledgements**
 Special thanks to the open-source community and the developers of TensorFlow and Keras for their invaluable tools and libraries.
 
