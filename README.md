@@ -49,7 +49,6 @@ Push to the branch (git push origin feature/YourFeature).
 Open a Pull Request.
 ```
 ## **Model Result**
-![Screenshot 2024-06-07 190550](https://github.com/rahul9903/Twitter/assets/130080777/61d6c649-0841-46d0-82c3-5edf95429a9f)
 ![Screenshot 2024-06-07 190538](https://github.com/rahul9903/Twitter/assets/130080777/486d2714-4b66-4f0d-8aec-3c1881269218)
 
 ## **Acknowledgements**
